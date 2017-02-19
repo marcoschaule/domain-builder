@@ -1,0 +1,26 @@
+{
+  "names": [
+    "code",
+    "design",
+    "dev",
+    "lab",
+    "labs",
+    "!lutions",
+    "ng!",
+    "node",
+    "stack",
+    "strict"
+  ],
+  "topLevelDomains": [
+    "de"
+  ],
+  "command": "nslookup ",
+  "errorLabel": "server can't find",
+  "domainPrefix": "",
+  "checkURL": "https://www.united-domains.de/domain-registrieren/?domain=",
+  "useDash": false,
+  "useNonDoubles": true,
+  "showResult": true,
+  "showAvailableOnly": true,
+  "showAsTable": true
+}
