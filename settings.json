@@ -1,20 +1,21 @@
 {
   "names": [
-    "code",
-    "design",
-    "dev",
-    "lab",
+    "fawewergr",
+    "#code",
+    "#design",
+    "#dev",
+    "#lab",
     "labs",
-    "!lutions",
-    "ng!",
-    "node",
-    "stack",
-    "strict"
+    "#!lutions",
+    "#ng!",
+    "#node",
+    "#stack",
+    "#strict"
   ],
   "topLevelDomains": [
     "de"
   ],
-  "command": "nslookup ",
+  "command": "ping -w 100 -n 1 ",
   "errorLabel": "server can't find",
   "domainPrefix": "",
   "checkURL": "https://www.united-domains.de/domain-registrieren/?domain=",

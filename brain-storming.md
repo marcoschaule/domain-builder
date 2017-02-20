@@ -30,16 +30,36 @@ Business fields
   * Systemjs
   * Webpack
 
+Keywords
+--------
+
+### Fields:
+
+* labs
+* tech
+* quality
+* modern, edge, high end
+* fast, quick
+
+### Names:
+
+* Marco Schaule
+* Vladislav Lisitsyn
+* Thomas Fuchs
 
 Possible Domains
 ----------------
 
 * devlabs.de (min. 450 €)
-* devlabs.com (???)
+- devlabs.com (owner has no interest to sell)
 * saarlabs.com
+* softlabs.com (4.500 €)
 * devriders.com √
 * devrider.com
+* proglabs.com (2.319 €)
 * angulutions.com
 * nglutions.com
 * labscode.com (problem: "scode")
 * strictstack.com
+* fullstag.com
+* lernlabs
