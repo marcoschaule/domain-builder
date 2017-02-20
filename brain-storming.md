@@ -62,4 +62,6 @@ Possible Domains
 * labscode.com (problem: "scode")
 * strictstack.com
 * fullstag.com
-* lernlabs
+* lernlabs.com
+* nodelabs.com (3700 €)
+* devcodes.com (3200 €)
