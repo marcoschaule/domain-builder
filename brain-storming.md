@@ -50,18 +50,18 @@ Keywords
 Possible Domains
 ----------------
 
-* devlabs.de (min. 450 €)
-- devlabs.com (owner has no interest to sell)
+* sturlabs.com
+* starnlabs.com
+* strictstack.com
 * saarlabs.com
-* softlabs.com (4.500 €)
 * devriders.com √
-* devrider.com
-* proglabs.com (2.319 €)
 * angulutions.com
 * nglutions.com
-* labscode.com (problem: "scode")
-* strictstack.com
-* fullstag.com
 * lernlabs.com
-* nodelabs.com (3700 €)
-* devcodes.com (3200 €)
+* devlabs.de (min. 450 €)
+* proglabs.com (2.319 €)
+* softlabs.com (4.500 €)
+* nodelabs.com (3.700 €)
+* devcodes.com (3.200 €)
+* labscode.com (problem: "scode")
+- devlabs.com (owner has no interest to sell)
